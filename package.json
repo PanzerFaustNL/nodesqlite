@@ -1,0 +1,11 @@
+{
+  "name": "node-sqlite-voorbeeld",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
